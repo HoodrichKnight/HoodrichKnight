@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+everyone!+I'm+Yaroslav;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVpb3JtbmxzYXVyNHJrcDMydnNqanFycXQzN3l2cjJtMmQwbDdyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
